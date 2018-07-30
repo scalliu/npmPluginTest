@@ -17,7 +17,7 @@
   
   "repository": {
     "type": "git",
-    "url": "https://github.com/DaiHuaXieHuaKai/GaoDeLocation.git"
+    "url": "https://github.com/scalliu/npmPluginTest.git"
   },
   "keywords": [
     "ecosystem:testtest",
@@ -26,7 +26,7 @@
   "author": "zhaoying",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DaiHuaXieHuaKai/GaoDeLocation/issues"
+    "url": "https://github.com/scalliu/npmPluginTest/issues"
   },
-  "homepage": "https://github.com/DaiHuaXieHuaKai/GaoDeLocation#readme"
+  "homepage": "https://github.com/scalliu/npmPluginTest#readme"
 }
